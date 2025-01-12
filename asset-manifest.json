@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Gemini-chatbot/static/css/main.5b2c4a3f.css",
+    "main.js": "/Gemini-chatbot/static/js/main.6e853cee.js",
+    "static/media/bot.svg": "/Gemini-chatbot/static/media/bot.5c3674ddaad72b149fb670df373ba92b.svg",
+    "index.html": "/Gemini-chatbot/index.html",
+    "static/media/user.svg": "/Gemini-chatbot/static/media/user.97eb91c07eec18b2a81bbf29612648e8.svg",
+    "static/media/send.svg": "/Gemini-chatbot/static/media/send.dbced668c2a09d94029f856ecb325c14.svg",
+    "main.5b2c4a3f.css.map": "/Gemini-chatbot/static/css/main.5b2c4a3f.css.map",
+    "main.6e853cee.js.map": "/Gemini-chatbot/static/js/main.6e853cee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b2c4a3f.css",
+    "static/js/main.6e853cee.js"
+  ]
+}
